@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Organização de Finanças Pessoais da Barbie com Vibe Coding
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -73,17 +73,73 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+17 de mar.
+at 19:57
+crie um app de finanças pessoais com base no seguinte prd: # PRD – Aplicativo de Finanças Pessoais Conversacional com Design Universal
+
+Visão Geral
+Criar um aplicativo de organização de finanças pessoais baseado em conversas naturais. O app deve ser simples, acessível e seguir princípios de Design Universal, garantindo boa experiência para o maior número possível de usuários, incluindo iniciantes e pessoas com necessidades de acessibilidade.
+
+Problema
+A maioria dos apps financeiros exige muita entrada manual, categorização complexa e interfaces pouco intuitivas. Isso afasta iniciantes e pessoas com baixa familiaridade digital. Além disso, muitos apps não consideram acessibilidade desde o início, criando barreiras para diversos perfis de usuários.
+
+Público-Alvo
+Pessoas que desejam começar a organizar suas finanças de forma simples.
+
+Usuários iniciantes em apps financeiros.
+
+Pessoas com baixa familiaridade digital.
+
+Usuários com necessidades de acessibilidade (visão reduzida, dificuldades motoras, dislexia etc.).
+
+- Seu **prompt final** (PRD);
+- PRD REFINADO NO LOVABLE
+...MARKDOWN
+
+Proposta de Solução
+Um app que funciona por meio de conversas naturais. O usuário registra gastos, cria metas e recebe orientações financeiras por meio de um chat. Toda a experiência deve ser construída com Design Universal, garantindo clareza, acessibilidade e facilidade de uso.17 de mar.
+at 19:57
+crie um app de finanças pessoais com base no seguinte prd: # PRD – Aplicativo de Finanças Pessoais Conversacional com Design Universal
+
+Visão Geral
+Criar um aplicativo de organização de finanças pessoais baseado em conversas naturais. O 
+
+Público-Alvo
+Pessoas que desejam começar a organizar suas finanças de forma simples.
+
+Usuários iniciantes em apps financeiros.
+
+Pessoas com baixa familiaridade digital.
+
+Usuários com necessidades de acessibilidade (visão reduzida, dificuldades motoras, dislexia etc.).
+
+
+Funcionalidades-Chave
+1. Registro de gastos via chat
+O usuário informa gastos em linguagem natural, como: "Gastei 20 reais no Uber ontem".
+
+O sistema interpreta vaLor
+
+
+
+- interações com o loveble :
+- 
+- crie um web de finanças pessoais com base no PRD
+- criar meta de reserva de emergencia no valor de 5.000,00
+- depositei 200,00 consigo ver meu extrato
+- Resultado final: https://lovable.dev/projects/c89765ff-bbf0-487e-9f15-7085810e578a
+
+
+- Prints ou pequenos vídeos das interações com a IA;
+  - resumo do processo: https://appfinanas.lovable.app
+- 
+  conclusao
+
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - O que funcionou bem?   Lovable com interface acessivel a qualquer pessoa
+  - O que não funcionou como o esperado?  quantidade de interações no lovable limitadas
+  - O que aprendeu sobre conversar com IAs? Mesma facilidade de conversar com pessoas desde que as perguntas sejam feitas de forma correta
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
-## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
